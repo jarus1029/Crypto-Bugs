@@ -1,0 +1,11 @@
+.css-1h6qhw2{
+    width:1000px !important;
+    height: 100% !important; 
+} 
+@media only screen and(min-width:600px) and (max-width:900px)
+{
+    .css-1h6qhw2{
+        width:800px !important;
+        height: 100% !important; 
+    } 
+}
